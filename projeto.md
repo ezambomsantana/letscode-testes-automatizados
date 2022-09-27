@@ -9,6 +9,7 @@ A aplicação deverá ter as seguintes operações:
 - Cadastro de veículo
 - Listagem de veículo
 - Cadastro de Aluguel
+- Listagem dos Alugueis
 - Finalização do Aluguel (Devolução do veículo)
 
 O cadastro do aluguel deve verificar se o carro que está sendo alugado existe, e se ele está disponível ou não. Se não existir ou não estiver disponível, deve ser retornado um erro para o usuário.
