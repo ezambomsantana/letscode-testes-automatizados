@@ -1,6 +1,6 @@
 # Projeto
 
-Desenvolver uma aplicação para o gereciamento de uma locadora de veículos de uma escola. Devem existir duas classes, a Veiculo e a Aluguel. A classe Veiculo deve ter os atributos modelo, placa e disponivel.
+Desenvolver uma aplicação para o gereciamento de uma locadora de veículos. Devem existir duas classes, a Veiculo e a Aluguel. A classe Veiculo deve ter os atributos modelo, placa e disponivel.
 
 A classe Aluguel deve ter os atributos dataEmprestimo, dataDevolucao e o veiculo alugado.
 
